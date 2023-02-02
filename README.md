@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?text=welcome!&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 
-![Me](./public/forProfile.png)
-
-
 ### Ping Me : <a href="mailto:dbvenkat857@gmail.com">Mail</a>
 <hr /><br />
 
@@ -59,4 +56,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 
-<hr /><br />
+<center><a href="https://suryanarayanandv.github.io/suryanarayananwebsite/" target="_blank">visit profile</center>
+<hr />
