@@ -52,13 +52,9 @@
 
 <hr /><br />
 
-<picture>
-<source>
-<img src="https://github-readme-stats.vercel.app/api?username=suryanarayanandv&show_icons=true&theme=dark" />
-</source>
-<source>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanarayanandv&show_icons=true&theme=dark" />
-</source>
-</picture>
+![github stats](https://github-readme-stats.vercel.app/api?username=suryanarayanandv&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
 
 <hr /><br />
