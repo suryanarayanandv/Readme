@@ -1,6 +1,10 @@
-<img src="./public/forProfile.png" style="border-radius:10px;">
-Ping Me : <a href="mailto:dbvenkat857@gmail.com">Mail</a>
-<br /><hr /><br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=welcome!&animation=fadeIn&type=waving&color=gradient&height=100" />
+</p>
+<a href="https://suryanarayanandv.github.io/suryanarayananwebsite/" target="_blank"><img src="./public/forProfile.png" style="border-radius:10px;"></a>
+
+### Ping Me : <a href="mailto:dbvenkat857@gmail.com">Mail</a>
+<hr /><br />
 
 <!-- don't complaint its left here intentionally -->
 ### 🛀 Me defining Myself~
