@@ -26,7 +26,7 @@
         "Full Stack Dev"
     ],
 
-    "currently-learning": ["express", "react", "Tensorflow"],
+    "currently-learning": [..., "webpack", "Next.Js", "Rust"],
     "hobbies": ["Gaming", "Cinema", "Songs", "Books"],
     "future": "404 Not Found"
 }
