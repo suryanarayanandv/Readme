@@ -26,9 +26,10 @@
         "Full Stack Dev"
     ],
 
-    "currently-learning": ["webpack", "Next.Js", "Rust"],
+    "currently-learning": ["Ima workin"],
     "hobbies": ["Gaming", "Cinema", "Songs", "Books"],
-    "future": "404 Not Found"
+    "future": "301",
+    "status": "inactive"
 }
 ```
 <hr /><br />
